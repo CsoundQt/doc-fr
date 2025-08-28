@@ -1,0 +1,2 @@
+# 1. Bienvenue dans CsoundQt
+CsoundQt est un interface utilisateur graphique pour Csound qui comprend un éditeur avec mise en évidence et autocomplétion du code, des widgets interactifs et une aide intégrée. Il s’agit l’un logiciel multiplateforme qui vise à offrir un environnement de développement simple, puissant et complet pour Csound.
